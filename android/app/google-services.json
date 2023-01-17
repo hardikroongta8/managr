@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "928726006564",
+    "project_id": "crud-hr08",
+    "storage_bucket": "crud-hr08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928726006564:android:6817805f20651e8e8411b1",
+        "android_client_info": {
+          "package_name": "com.example.butlr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928726006564-9cl951lcbtrh3fa9vkne46gmbm6cvv5o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.butlr",
+            "certificate_hash": "3d2de7f9025e5e4c6754b85c9aec3c1d8a76b4ae"
+          }
+        },
+        {
+          "client_id": "928726006564-cl6v73nf8ufn41f3dc1d72d3ve6ds35v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5iea5qlj_PaSmFVeO_F9erYyLXCMwDdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928726006564-cl6v73nf8ufn41f3dc1d72d3ve6ds35v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "928726006564-53ctulqprf2u595uto1p90f6l17n5gk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.butlr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
