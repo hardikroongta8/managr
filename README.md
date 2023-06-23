@@ -1,4 +1,4 @@
-# Productivity App
+# Managr
 
 The Productivity App is a Flutter-based application designed to help users set and manage their goals efficiently. It integrates Google Authentication for easy login and provides features to add goals, categorize them, and track progress on a weekly basis. This readme provides an overview of the app's features, installation guide, and basic usage instructions.
 
